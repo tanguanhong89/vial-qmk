@@ -34,3 +34,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define NO_ACTION_LAYER
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
+#define VIAL_KEYBOARD_UID {0x28, 0xC7, 0xD8, 0x41, 0xB4, 0x87, 0xA5, 0xED}
+#define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 1 }
+
+#define FORCE_NKRO
