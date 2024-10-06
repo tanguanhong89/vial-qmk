@@ -21,8 +21,8 @@
         }
     },
     "matrix_pins": {
-        "rows": ["D3", "D2", "D1", "D0","B5" ],
-        "cols": ["D4", "C6", "D7", "E6", "B4", "F7"]
+        "rows": ["D3", "D2", "D1", "D0","B3" ],
+        "cols": ["D4", "C6", "D7", "E6", "B4", "B5"]
     },
     "diode_direction": "COL2ROW",
     "backlight": {
@@ -50,7 +50,7 @@
         }
     },
     "ws2812": {
-        "pin": "F7"
+        "pin": "B1"
     },
     "processor": "atmega32u4",
     "bootloader": "qmk-dfu",
